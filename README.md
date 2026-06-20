@@ -37,3 +37,8 @@ It alerts the driver using buzzer or display if speed exceeds the limit.
 
 ## 👨‍💻 Author
 Surendra Reddy
+## 🔌 Circuit Diagram
+## 🔌 Circuit Diagram
+
+![Circuit Diagram]
+![Circuit Diagram
